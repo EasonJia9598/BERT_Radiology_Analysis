@@ -1,3 +1,10 @@
+Multi-Class [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EasonJia9598/BERT_Radiology_Analysis/blob/main/multi_class_BERT%20(1).ipynb)
+
+Multi-Label [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EasonJia9598/BERT_Radiology_Analysis/blob/main/multi_label%20(1).ipynb)
+
+
+
+
 # BERT_Radiology_Analysis
 In this paper, we will train and modify the original Transformers pre-trained model BERT on our radiology domain dataset for doing two main downstream tasks - Named Entity recognition task and examinations prediction.
 
