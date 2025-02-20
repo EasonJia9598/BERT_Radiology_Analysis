@@ -86,15 +86,6 @@ This project evaluates BERT's performance in the medical domain by fine-tuning i
 
 ---
 
-## Model Performance
-| Model | Accuracy | F1 Score | ROC-AUC |
-|--------|----------|---------|---------|
-| Multi-Class BERT | 59% | - | - |
-| Multi-Label BERT | **74%** | **81.24%** | **89.72%** |
-| Baseline BERT | 42% | - | - |
-
----
-
 ## Installation
 ### Requirements
 - Python 3.8+
