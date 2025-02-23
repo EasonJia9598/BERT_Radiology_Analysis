@@ -94,27 +94,11 @@ This project evaluates BERT's performance in the medical domain by fine-tuning i
 - Tokenizers
 - Scikit-learn
 
-### Setup
-```sh
-pip install -r requirements.txt
-```
-
 ---
 
 ## Usage
-### Train the Model
-```sh
-python train.py --task ner --dataset radgraph
-```
+### Two ipynb files for two different types of models
 
-```sh
-python train.py --task classification --dataset examinations --model multi_label
-```
-
-### Inference
-```sh
-python inference.py --text "Sample radiology report text..."
-```
 
 ---
 
